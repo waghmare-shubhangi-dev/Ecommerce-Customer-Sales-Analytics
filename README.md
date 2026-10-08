@@ -15,6 +15,7 @@ The project follows a complete data analytics workflow:
 
 
 \*\*Raw Dataset → Python Data Cleaning \& Analysis → MySQL SQL Analysis → Power BI Dashboard → Business Insights\*\*
+![E-Commerce Sales Analytics Dashboard](Ecommerce_Sales_Analytics_Dashboard.png)
 
 
 
